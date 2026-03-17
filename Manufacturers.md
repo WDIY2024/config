@@ -123,3 +123,4 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |YYRC|JLDZ||
 |ZEEZ|Zeez RC|https://www.zeezrc.com/|
 |ZERO|Zerodrag|https://zerodrag.in/|
+|WDIY|WDIYFPV|https://www.wdiyfpv.com/|
